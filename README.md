@@ -26,7 +26,7 @@ flappy_bird.py
 
 
 ## Output
-<img align="https://github.com/RoshiniKrishnasri/Flappy-Bird/blob/main/media/output.png" />
+<img width="711" height="672" alt="output" src="https://github.com/user-attachments/assets/80e80173-545b-4f56-aec6-91ef9ce87e70" />
 
 ## Author
 <a href="https://github.com/RoshiniKrishnasri">Roshini Krishansri</a>
